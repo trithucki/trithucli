@@ -5,4 +5,6 @@ Chao bạn. mình là thuc
 
 🌱 hiện đang học cơ bản về lập trình
 
-sở thích nghe nhạc và có niềm đam mê với các tựa game thế giới mở
+🎮 sở thích nghe nhạc và có niềm đam mê với các tựa game thế giới mở
+
+💻 mục tiêu là làm ra các game mang lại niềm vui cho mọi 
