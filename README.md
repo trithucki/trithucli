@@ -9,6 +9,6 @@ Chao bạn. mình là thuc
 
 💻 mục tiêu là làm ra các game mang lại niềm vui cho mọi 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trithucki&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trithucki&layout=compact&theme=radical)
