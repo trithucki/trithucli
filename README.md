@@ -8,3 +8,7 @@ Chao bạn. mình là thuc
 🎮 sở thích nghe nhạc và có niềm đam mê với các tựa game thế giới mở
 
 💻 mục tiêu là làm ra các game mang lại niềm vui cho mọi 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GITHUB_CUA_BAN&layout=compact&theme=radical)
