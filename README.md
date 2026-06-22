@@ -1,0 +1,2 @@
+# trithucli
+tôi là thuc 
